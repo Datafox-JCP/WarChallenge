@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C6746BC529B81DAA000E3987 /* Sample1.png in Resources */ = {isa = PBXBuildFile; fileRef = C6746BC329B81DA8000E3987 /* Sample1.png */; };
+		C6746BC629B81DAA000E3987 /* Sample2.png in Resources */ = {isa = PBXBuildFile; fileRef = C6746BC429B81DA9000E3987 /* Sample2.png */; };
 		C6ABCB362877101400865061 /* WarChallengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6ABCB352877101400865061 /* WarChallengeApp.swift */; };
 		C6ABCB382877101400865061 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6ABCB372877101400865061 /* ContentView.swift */; };
 		C6ABCB3A2877101B00865061 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6ABCB392877101B00865061 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C6746BC329B81DA8000E3987 /* Sample1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sample1.png; sourceTree = "<group>"; };
+		C6746BC429B81DA9000E3987 /* Sample2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sample2.png; sourceTree = "<group>"; };
 		C6ABCB322877101400865061 /* WarChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WarChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6ABCB352877101400865061 /* WarChallengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarChallengeApp.swift; sourceTree = "<group>"; };
 		C6ABCB372877101400865061 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +55,8 @@
 		C6ABCB342877101400865061 /* WarChallenge */ = {
 			isa = PBXGroup;
 			children = (
+				C6746BC329B81DA8000E3987 /* Sample1.png */,
+				C6746BC429B81DA9000E3987 /* Sample2.png */,
 				C6ABCB352877101400865061 /* WarChallengeApp.swift */,
 				C6ABCB372877101400865061 /* ContentView.swift */,
 				C6ABCB392877101B00865061 /* Assets.xcassets */,
@@ -127,6 +133,8 @@
 			files = (
 				C6ABCB3D2877101B00865061 /* Preview Assets.xcassets in Resources */,
 				C6ABCB3A2877101B00865061 /* Assets.xcassets in Resources */,
+				C6746BC629B81DAA000E3987 /* Sample2.png in Resources */,
+				C6746BC529B81DAA000E3987 /* Sample1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
